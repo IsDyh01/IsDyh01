@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>I’m doki-!</h1>
 
-- 🔭 掘金: <a href="https://juejin.cn/user/3035127759767981/posts" target="_blank">https://juejin.cn/user/3035127759767981/posts</a>
+<!--- 🔭 掘金: <a href="https://juejin.cn/user/3035127759767981/posts" target="_blank">https://juejin.cn/user/3035127759767981/posts</a> -->
 - 🌱 邮箱: 1335902682@qq.com
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about ...。.。.....
