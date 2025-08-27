@@ -27,6 +27,15 @@
     <img height=230 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsDyh01&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
+
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IsDyh01&area=true&hide_border=true&theme=redical" />
+    </td>
+  </tr>
+</table>
+
 <!--## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
 
 <p>
