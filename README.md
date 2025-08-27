@@ -27,6 +27,35 @@
     <img height=230 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsDyh01&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
+## 🤝 My Contributions
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ant-design/x" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/12101536?s=100&v=4" width="100px;" alt="Taiko GitHub Contributor 2023"/>
+        <br />
+        <sub>ant-design/x</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/heroui-inc/heroui" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/86160567?s=100&v=4" width="100px;" alt="Ethereum.org GitHub Contributor 2023"/>
+        <br />
+        <sub>heroui-inc/heroui</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/element-plus-x/Element-Plus-X" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/208607710?s=80&v=4" width="100px;" alt="ZK-Roller-Coaster Taiko Research Contributor"/>
+        <br />
+        <sub>element-plus-x/Element-Plus-X</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 
 
 <table align="center">
   <tr>
@@ -36,14 +65,13 @@
   </tr>
 </table>
 
-<!--## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-trophies.vercel.app/?username=IsDyh01&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
-<p>
-    <a target="_blank"href="https://www.gitpoap.io/gp/893"><img height=175 alt="Taiko GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-taiko-contributor-2022-logo-1671723111328.png&w=750&q=75" />&nbsp;&nbsp;
-    <a target="_blank"href="https://www.gitpoap.io/gp/879"><img height=175 alt="Ethereum.org GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png&w=750&q=75" />&nbsp;&nbsp;
-    <a target="_blank"href="https://poap.gallery/event/128736"><img height=175 alt="ZK-Roller-Coaster Taiko Research Contributor" src="https://assets.poap.xyz/taiko-research-contributors-2023-logo-1685987761596.png" />&nbsp;&nbsp;
-    <a target="_blank" href="https://collectors.poap.xyz/en-US/token/6673781"><img height=175 alt="Double Your DeFi Cohort 2: May 2023" src="https://assets.poap.xyz/0c6eaacb-d527-479b-8a0e-d9e60726851d.png" />&nbsp;&nbsp;
-</p>
--->
 
 </div>
